@@ -35,5 +35,5 @@ pip install -r requirements.txt
 
 Execute o script principal:
 ```bash
-python main.py
+python main2.py
 ```
