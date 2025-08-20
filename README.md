@@ -1,6 +1,6 @@
-# 🚁 UAV-BS Simulation
+# 🚁 UAV-BS model
 
-Este projeto simula a **alocação de usuários a UAV-BSs (drones atuando como estações base)**, calculando métricas como **SINR, Pathloss e Throughput**, além de gerar **visualizações (scatter plot e heatmap)**.
+Este projeto modela a **alocação de usuários a UAV-BSs (drones atuando como estações base)**, calculando métricas como **SINR, Pathloss e Throughput**, além de gerar **visualizações (scatter plot e heatmap)**.
 
 ---
 
