@@ -37,3 +37,7 @@ Execute o script principal:
 ```bash
 python main2.py
 ```
+
+Posicionamento UAV-BS
+![Texto alternativo]([https://exemplo.com/imagem.png](https://www.researchgate.net/profile/Wilson-Silva-7/publication/370979000/figure/fig1/AS:11431281160874609@1684880655037/UAV-coverage-wireless_W640.jpg))
+
