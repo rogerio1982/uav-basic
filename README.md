@@ -40,7 +40,7 @@ python main2.py
 
 Posicionamento UAV-BS
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Wilson-Silva-7/publication/370979000/figure/fig1/AS:11431281160874609@1684880655037/UAV-coverage-wireless_W640.jpg" 
+  <img src="https://www.researchgate.net/profile/Wilson-Silva-7/publication/370979000/figure/fig2/AS:11431281160856255@1684880655239/Allocation-the-UAVs-BS_Q320.jpg" 
        alt="Cobertura UAV" width="400">
 </p>
 
