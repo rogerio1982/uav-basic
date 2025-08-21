@@ -39,5 +39,8 @@ python main2.py
 ```
 
 Posicionamento UAV-BS
-![Texto alternativo](https://www.researchgate.net/profile/Wilson-Silva-7/publication/370979000/figure/fig1/AS:11431281160874609@1684880655037/UAV-coverage-wireless_W640.jpg)
+<p align="center">
+  <img src="https://www.researchgate.net/profile/Wilson-Silva-7/publication/370979000/figure/fig1/AS:11431281160874609@1684880655037/UAV-coverage-wireless_W640.jpg" 
+       alt="Cobertura UAV" width="400">
+</p>
 
